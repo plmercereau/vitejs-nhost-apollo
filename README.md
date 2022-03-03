@@ -1,3 +1,4 @@
-# vitejs-vite-ngmg22
+# vitejs-nhost-apollo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-ngmg22)
+Very simple example to show how to configure Nhost with Apollo devtools
+
